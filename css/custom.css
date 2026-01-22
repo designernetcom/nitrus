@@ -6456,3 +6456,9 @@ header.main-header .header-sticky.active {
   transform: translate(-50%, -50%);
   pointer-events: none;
 }
+
+@media screen and (max-width: 768px) {
+  .vdo iframe {
+    display: none;
+  }
+}
