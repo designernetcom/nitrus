@@ -817,7 +817,8 @@ header.main-header .header-sticky.active {
   position: absolute;
   top: 0;
   left: 0;
-  background: url("../images/section-bg-circle-shape.png");
+  background: url("../images/gym/DSC03428.JPG");
+  opacity: 0.2;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100% auto;
