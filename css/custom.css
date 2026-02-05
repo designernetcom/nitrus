@@ -848,6 +848,7 @@ header.main-header .header-sticky.active {
   left: 0;
   right: 0;
   background: var(--accent-secondary-color);
+  background: url("../images/gym/banner-img.JPG") no-repeat;
   opacity: 65%;
   width: 100%;
   height: 100%;
